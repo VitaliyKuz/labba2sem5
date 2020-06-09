@@ -1,0 +1,17 @@
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3test.deps.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3test.runtimeconfig.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3test.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3test.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3test.pdb
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\bin\Debug\netcoreapp2.1\labba2sem5.3.pdb
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.csproj.CopyComplete
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3test\obj\Debug\netcoreapp2.1\labba2sem5.3test.pdb

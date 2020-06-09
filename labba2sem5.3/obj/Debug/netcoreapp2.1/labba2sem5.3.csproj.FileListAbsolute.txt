@@ -1,0 +1,11 @@
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\bin\Debug\netcoreapp2.1\labba2sem5.3.deps.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\bin\Debug\netcoreapp2.1\labba2sem5.3.runtimeconfig.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\bin\Debug\netcoreapp2.1\labba2sem5.3.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\bin\Debug\netcoreapp2.1\labba2sem5.3.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\bin\Debug\netcoreapp2.1\labba2sem5.3.pdb
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.dll
+C:\Users\Laptop\source\repos\labba2sem5.3\labba2sem5.3\obj\Debug\netcoreapp2.1\labba2sem5.3.pdb
